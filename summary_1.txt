@@ -1,0 +1,17 @@
+Parameter	Value	Criteria	Pass/Fail
+ILfit@2.5GHz, dB	-3.251	-4.0	Pass	
+ILfit@5GHz, dB	-5.024	-6.0	Pass	
+ILfit@10GHz, dB	-7.92	-11.0	Pass	
+IMR, dB	-38.735	-37.0	Pass	
+IRL, dB	-17.691	-20.0	Fail	
+INEXT, dB	-43.558	-40.0	Pass	
+IFEXT, dB	-45.94	-40.0	Pass	
+SCD12, dB	-25.369	-20.0	Pass	
+SCD21, dB	-25.64	-20.0	Pass	
+SDC21, dB	-25.437	-20.0	Pass	
+D+/D- IL@50MHz, dB	-0.817	-1.52	Pass	
+D+/D- IL@100MHz, dB	-0.886	-2.03	Pass	
+D+/D- IL@200MHz, dB	-1.222	-2.91	Pass	
+D+/D- IL@400MHz, dB	-1.767	-4.35	Pass	
+IDDXT (2NEXT), dB	-58.396	-34.5	Pass	
+IDDXT (1NEXT+1FEXT), dB	-58.894	-33.0	Reference	
